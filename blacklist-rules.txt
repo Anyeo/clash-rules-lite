@@ -7,4 +7,4 @@ payload:
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,rou.video
-  - DOMAIN-SUFFIX,roblox
+  - DOMAIN-SUFFIX,roblox.com
