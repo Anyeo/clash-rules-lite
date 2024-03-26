@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,onedrive.live.com
